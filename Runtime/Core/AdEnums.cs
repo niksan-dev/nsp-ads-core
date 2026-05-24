@@ -1,4 +1,4 @@
-namespace NSP.Ads
+namespace NSP.Ads.Core
 {
     public enum AdType
     {
